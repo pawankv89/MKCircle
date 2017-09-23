@@ -4,7 +4,7 @@ MKCircle
 
 ## Find 500m Range of your current location
 
-[![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
+[![solarized dualmode](https://github.com/pawankv89/MKCircle/blob/master/images/screen_1.PNG)](#features)
 
 Solarized is a sixteen color palette (eight monotones, eight accent colors)
 designed for use with terminal and gui applications. It has several [unique
