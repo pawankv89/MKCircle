@@ -5,9 +5,7 @@ MKCircle
 ## Find 500m Range of your current location
 
 [![](https://github.com/pawankv89/MKCircle/blob/master/images/screen_1.PNG)](https://github.com/pawankv89/MKCircle/blob/master/images/screen_2.PNG)
-[![](https://github.com/pawankv89/MKCircle/blob/master/images/screen_3.PNG)]
-[![](https://cloud.githubusercontent.com/assets/91322/26737574/95128ef6-477f-11e7-8b3a-456b2b585e75.png)](https://cloud.githubusercontent.com/assets/91322/26737572/94a137a6-477f-11e7-9778-6266006f2dba.png)
-[![](https://cloud.githubusercontent.com/assets/91322/26737576/951cc0c4-477f-11e7-9bc4-891cbbe70f80.png)](https://cloud.githubusercontent.com/assets/91322/26737575/95178c6c-477f-11e7-8df9-03aeeca5d39d.png)
+[![](https://github.com/pawankv89/MKCircle/blob/master/images/screen_3.PNG)](https://cloud.githubusercontent.com/assets/91322/26737575/95178c6c-477f-11e7-8df9-03aeeca5d39d.png)
 [![](https://cloud.githubusercontent.com/assets/91322/26737577/9523169a-477f-11e7-83d9-c1a55b724c0a.png)](https://cloud.githubusercontent.com/assets/91322/26737578/95235920-477f-11e7-9968-9ecf506aba06.png)
 [![](https://cloud.githubusercontent.com/assets/91322/26737579/954371ce-477f-11e7-85f8-660807a7f35e.png)](https://cloud.githubusercontent.com/assets/91322/26737573/95048432-477f-11e7-8f1d-4d5736b10488.png)
 [![](https://cloud.githubusercontent.com/assets/91322/26737581/954e3c9e-477f-11e7-93d9-2a8e2e0e7dd0.png)](https://cloud.githubusercontent.com/assets/91322/26737580/954aff70-477f-11e7-9634-5802daea2dee.png)
