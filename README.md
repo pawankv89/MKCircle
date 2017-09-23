@@ -5,9 +5,7 @@ MKCircle
 ## Find 500m Range of your current location
 
 ![solarized vim](https://github.com/pawankv89/MKCircle/blob/master/images/screen_1.PNG)
-
-![solarized vim](https://github.com/pawankv89/MKCircle/blob/master/images/screen_2.PNG)
-
+![solarized palette](https://github.com/pawankv89/MKCircle/blob/master/images/screen_2.PNG)
 ![solarized vim](https://github.com/pawankv89/MKCircle/blob/master/images/screen_3.PNG)
 
 Solarized is a sixteen color palette (eight monotones, eight accent colors)
