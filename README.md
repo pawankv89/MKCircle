@@ -12,7 +12,7 @@ MKCircle
 
 ## Usage
 ------------
-You can add this method in your `UICollectionView`.
+####### You can add this method in your `UICollectionView`.
 
 
 ```objective-c
@@ -39,6 +39,23 @@ You can add this method in your `UICollectionView`.
     [objMapView setRegion:region animated:YES];
 }
 ```
+####### Add MKMapView Delegate 
+
+```objective-c
+- (MKOverlayRenderer *)mapView:(MKMapView *)mapView rendererForOverlay:(id <MKOverlay>)overlay
+{
+    if([overlay isKindOfClass:[MKCircle class]]) {
+        
+        MKCircleRenderer *circleView = [[MKCircleRenderer alloc] initWithOverlay:overlay];
+        circleView.strokeColor = [UIColor blueColor];
+        circleView.fillColor = [[UIColor blueColor] colorWithAlphaComponent:0.4];
+        circleView.lineWidth = 1.0f;
+        return circleView;
+    }
+    return nil;
+}
+```
+
 ## License
 
 This code is distributed under the terms and conditions of the [MIT license](LICENSE).
