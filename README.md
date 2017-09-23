@@ -4,7 +4,7 @@ MKCircle
 
 ## Find 500m Range of your current location
 
-###### Added Some screens here.
+ Added Some screens here.
 [![](https://github.com/pawankv89/MKCircle/blob/master/images/screen_1.PNG)]
 [![](https://github.com/pawankv89/MKCircle/blob/master/images/screen_2.PNG)]
 [![](https://github.com/pawankv89/MKCircle/blob/master/images/screen_3.PNG)]
@@ -12,7 +12,7 @@ MKCircle
 
 ## Usage
 ------------
-####### You can add this method in your `UICollectionView`.
+ You can add this method in your `UICollectionView`.
 
 
 ```objective-c
@@ -39,7 +39,7 @@ MKCircle
     [objMapView setRegion:region animated:YES];
 }
 ```
-####### Add MKMapView Delegate 
+ Add MKMapView Delegate 
 
 ```objective-c
 - (MKOverlayRenderer *)mapView:(MKMapView *)mapView rendererForOverlay:(id <MKOverlay>)overlay
